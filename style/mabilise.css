@@ -1,0 +1,259 @@
+@media screen and (max-width: 1200px) and (min-width: 996px){ 
+   
+    .alfa{
+        width: 100wh;
+        height: 700px;
+        background-color: rgba(0, 0, 0, 0.5);
+        z-index: 5;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+    .home_img{
+        background-repeat: no-repeat;
+        width: 100wh;
+        height: 700px;
+        background-image: url(/images/Background\ Image.jpg);
+        z-index: -1;
+    }
+    .alfa p{
+        margin-top: 200px;
+    }
+    #ports #port:nth-child(3){
+        margin-left: 0;
+    }
+    #arrow{
+        right: 100px;
+        top: 550px;
+        font-size: 60px;
+    }
+    
+}
+@media screen and (max-width: 995.99px) and (min-width: 768px){
+
+    .sblock:last-child{
+        margin-left: 0px;
+    }
+    #arrow{
+        right: 90px;
+        top: 550px;
+        font-size: 60px;
+    }
+    #your_message{
+        margin-top: 10px;
+        margin-left: 0;
+        width: 450px;
+        height: 110px;
+        padding-top: 15px;
+    }
+    .details{
+        border: rgba(245, 245, 245, 0) 1px solid;
+        border-radius: 5px;
+        margin-top: 10px;
+        width: 450px;
+        height: 50px;
+    }
+    .form{
+        margin-top: 30px;
+    }
+}
+@media screen and (max-width: 767.99px) and (min-width: 500px){
+  
+
+    .home_img{
+        height: 500px;
+    }
+    .alfa{
+        height: 500px;
+    }
+    .alfa p{
+        margin-top: 150px;
+        font-size: 30px;
+    }
+    .alfa h4{
+        font-size: 45px;
+    }
+    nav ul li a{
+
+        font-size: 10px;
+      
+    }
+    .sblock{
+        margin-left: 0px;
+    }
+    #arrow{
+        right: 90px;
+        top: 570px;
+        font-size: 60px;
+    }
+    #your_message{
+        margin-top: 10px;
+        margin-left: 0;
+        width: 450px;
+        height: 110px;
+        padding-top: 15px;
+    }
+    .details{
+        border: rgba(245, 245, 245, 0) 1px solid;
+        border-radius: 5px;
+        margin-top: 10px;
+        width: 450px;
+        height: 50px;
+    }
+    .form{
+        margin-top: 30px;
+    }
+}
+@media screen and (max-width: 499.99px) and (min-width: 320px){
+    .alfa {
+        background-color: rgba(0, 0, 0, 0.4);
+    }
+    nav{
+        background-color: rgba(0, 0, 0, 0.4);
+        height: 70px;
+    }
+    nav ul li a{
+
+        font-size: 10px;
+      
+    }
+    nav ul li{
+        margin-left: 5px;
+        list-style: none;
+    }
+    nav h3{
+        text-shadow: 0 0 30px #d5b136;
+        font-size: 20px;
+        font-family: 'Oleo Script', cursive;
+        color: #d5b136;
+        left: 235.937px;
+        top: 37.499px;
+        z-index: 248;
+        font-weight: 400; 
+    }
+    nav ul li a:after{
+        content: "";
+        top: 37%;
+        margin-left:-3px;
+        position: absolute;
+        display: block;
+        height: 20px;
+        width: 1px;
+        background-color: rgb(177, 177, 177);
+    }
+    .alfa p{
+        margin-top: 50px;
+        font-size: 20px;
+    }
+    .alfa{
+        height: 300px;
+    }
+    .home_img{
+        height: 300px;
+    }
+    .alfa h4{
+        font-size: 35px;
+    }
+    nav ul li a{
+
+        font-size: 10px;
+      
+    }
+    .alfa input{
+        width: 150px;
+        height: 50px;
+    }
+ 
+
+    .sblock{
+        margin-left: 0px;
+    }
+    .our_portfolio p{
+        font-size: 15px;
+    }
+    .leftblock .p{
+        font-weight: 100;
+        color: rgb(54, 54, 54);
+        width: 250px;
+        text-align: right;
+        line-height: 18px;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 15px;
+    }
+    .leftblock .h44{
+        margin-left: 0px;
+    }
+
+    .rightblock .p{
+        font-weight: 100;
+        color: rgb(54, 54, 54);
+        width: 250px;
+        text-align: left;
+        line-height: 18px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+
+    .rightblock .h44{
+        display: block;
+        height: 50px;
+        width:250px ;
+        font-family: 'Montserrat', sans-serif;
+    }
+    .rightblock .aimg{
+        margin-right: 40px;
+        width: 150px;
+        height: 150px;
+    }
+    .leftblock .aimg{
+        margin-left: 40px;
+        width: 150px;
+        height: 150px;
+    }
+    .circle2{
+        width: 150px;
+        height: 150px;
+    }
+    #arrow{
+        right: 50px;
+        top: 610px;
+        font-size: 60px;
+    }
+    .Tuts_ {
+        margin-left: 0px;
+    }
+    #your_message{
+        margin-top: 10px;
+        margin-left: 0;
+        width: 250px;
+        height: 110px;
+        padding-top: 15px;
+    }
+    .details{
+        border: rgba(245, 245, 245, 0) 1px solid;
+        border-radius: 5px;
+        margin-top: 10px;
+        width: 250px;
+        height: 30px;
+    }
+    .form{
+        margin-top: 30px;
+        width: 200px;
+    }
+    .footer p{
+        font-size: 10px;
+        font-family: 'Montserrat';
+        font-weight: 100px;
+        text-align: left;
+        margin-left: 50px;
+        margin-top: -2px;
+    }
+    .contact_us #lbutton{
+        width: 180px;
+        height: 45px;
+        font-size: 18px;
+        
+    }
+
+
+}
